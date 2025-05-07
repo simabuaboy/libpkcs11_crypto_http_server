@@ -1,4 +1,5 @@
 ./build/*
+./vscode
 
 ./server/server
 ./test/test_crypto
