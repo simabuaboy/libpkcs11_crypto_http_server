@@ -1,0 +1,4 @@
+./build/*
+
+./server/server
+./test/test_crypto
