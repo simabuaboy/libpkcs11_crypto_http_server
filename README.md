@@ -2,14 +2,6 @@
 
 Proyek ini merupakan **library C modular** dan **REST API server** untuk melakukan enkripsi dan dekripsi menggunakan **PKCS#11**. Cocok digunakan untuk integrasi dengan perangkat keras seperti **HSM (Hardware Security Module)**.
 
-## 📁 Struktur Direktori
-.
-├── include/           # Header file modular
-├── src/               # Implementasi fungsi utama
-├── server/            # Server HTTP menggunakan Ulfius
-├── Makefile
-└── README.md
-
 ## 🧩 Komponen
 
 ### 1. `error_handling.c`
